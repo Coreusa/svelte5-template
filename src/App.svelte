@@ -2,7 +2,7 @@
   import { Styles } from '@sveltestrap/sveltestrap';
   import Router from 'svelte-spa-router';
   import routes from './core/Routes';
-  import Mainmenu from './components/MainMenu.svelte';
+  import Mainmenu from './components/Mainmenu.svelte';
   import Footer from './components/Footer.svelte';
 </script>
 
